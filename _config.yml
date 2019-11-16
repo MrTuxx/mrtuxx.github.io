@@ -21,7 +21,8 @@
 title: MrTux
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hola MrTux
+  Analista de Seguridad 
+  Red Team
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MrTux_
@@ -29,7 +30,7 @@ github_username:  mrtuxx
 # Build settings
 theme: jekyll-theme-hydeout
 remote-theme: fongandrew/hydeout
-paginate: 5
+paginate: 25
 plugins:
   - jekyll-feed
   - jekyll-gist
