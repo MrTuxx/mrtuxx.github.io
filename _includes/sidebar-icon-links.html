@@ -1,10 +1,6 @@
 <nav id="sidebar-icon-links">
   {% if site.github.repo %}
-    <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.github.repo }}">
-      {% include svg/github.svg %}
-    </a>
+
     <a id="github-download-link"
        class="icon" title="Download" aria-label="Download"
        href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
@@ -17,6 +13,22 @@
      href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
     {% include svg/feed.svg %}
   </a>
+  <a id="github-link" class="icon" 
+     title="Github" aria-label="Github"
+     href="https://github.com/MrTuxx">
+     {% include svg/github.svg %}
+  </a>
+  <a id="linkedin-link" class="icon" 
+     title="LinkedIn" aria-label="LinkedIn"
+     href="linkedin.com/in/franmontielgonzalez">
+     {% include svg/linkedin.svg %}
+  </a>
+  <a id="htb-link" class="icon" 
+     title="HackTheBox" aria-label="HackTheBox"
+     href="https://www.hackthebox.eu/profile/125999">
+     {% include svg/htb.svg %}
+  </a> 
+
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.

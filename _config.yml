@@ -30,7 +30,7 @@ github_username:  mrtuxx
 # Build settings
 theme: jekyll-theme-hydeout
 remote-theme: fongandrew/hydeout
-paginate: 25
+paginate: 5
 plugins:
   - jekyll-feed
   - jekyll-gist
