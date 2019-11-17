@@ -7,3 +7,33 @@
     height: auto;
 
 }
+@media screen and (max-width: 1070) {
+  .image-presentation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    } }
+@media screen and (max-width: 782px) {
+  .image-presentation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    } }
+@media screen and (max-width: 600px) {
+  .image-presentation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    } }
+@media screen and (max-width: 400px) {
+  .image-presentation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    } }
+
+  
