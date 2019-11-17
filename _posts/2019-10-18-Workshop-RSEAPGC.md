@@ -2,7 +2,7 @@
 layout: post
 title:  "Ciberseguridad en Inteligencia: seguridad en dispositivos de comunicaciones móviles"
 date:   2019-10-18 18:45:00 +0000
-categories: presentation
+categories: Presentation
 tags: Workshop OSINT
 excerpt_separator: <!--more-->
 ---
