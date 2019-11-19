@@ -13,6 +13,8 @@ En mi repositorio [HTB_WriteUp](https://github.com/MrTuxx/HTB_WriteUp) de Github
 openssl enc -aes-256-cbc -d -p -a -pbkdf2 -in <MachineName>.pdf.enc -out <MachineName>.pdf -pass file:root.txt
 
 ```
+---
+
 <div>
     <img src="https://www.hackthebox.eu/badge/image/125999" alt="Hack The Box">
 </div>
