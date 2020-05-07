@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mrtux.io"
+title                    : "mrtuxx.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MrTux"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "MrTux"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/img/personal.png"
+  bio              : "Security Analyst - Red Team"
   location         : "Somewhere"
   email            :
   links:
