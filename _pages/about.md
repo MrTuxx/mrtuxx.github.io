@@ -1,8 +1,7 @@
 ---
+title: About
 layout: single
 classes: wide smallfont
-permalink: /about/
-title: About
 permalink: /about/
 ---
 <h4 align="right"><i>Español</i></h4>
