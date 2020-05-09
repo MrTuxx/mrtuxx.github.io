@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 date: 2019-10-18 18:45:00 +0000
 clasess: wide
 categories:
-    - Presentation
+    - Presentations
 tags:
     - Workshop
     - OSINT

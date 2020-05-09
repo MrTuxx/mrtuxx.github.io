@@ -12,6 +12,10 @@ Siempre que aprendo algo nuevo me gusta documentarlo y hacer mis propios apuntes
 
 Actuamente estoy buscando desarrollar más aún mi carrera profesinal, si te gusta el contenido que comparto o quieres preguntar algo, no dudes en contactar conmigo a través de las redes sociales que muestro al pie de la barra de navegación.
 
+<div>
+    <img src="https://www.hackthebox.eu/badge/image/125999" alt="Hack The Box">
+</div>
+
 ---
 <h4 align="right"><i>English</i></h4>
 
@@ -21,6 +25,10 @@ Whenever I learn something new I like to document it and do my own notes, so in 
 
 Currently I want to further develop my professional career, if you like the content I share or you want to ask me something, don't doubt to contact with me through my social networks that show in the footer of the navbar.
 
-P.S. Some posts are going to be in Spanish, and some others in English
+P.S. Some posts are going to be in Spanish, and some others in English.
+
+<div>
+    <img src="https://www.hackthebox.eu/badge/image/125999" alt="Hack The Box">
+</div>
 
 ---
