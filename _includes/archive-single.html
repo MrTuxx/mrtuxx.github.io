@@ -31,6 +31,7 @@
       {% endif %}
       </p>
     {% endif %}
+    {% if post.header.teaser_home_page %}<img src="{{ post.header.teaser }}" alt="" style="float: right;margin-right:10px; margin-left:20px; margin-bottom:10px; height:120px;">{% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>{% endif %}
   </article>
 </div>
