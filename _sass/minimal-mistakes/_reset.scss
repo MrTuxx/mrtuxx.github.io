@@ -122,6 +122,13 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+p img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Prevent max-width from affecting Google Maps */
 
 #map_canvas img,
