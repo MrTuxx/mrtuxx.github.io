@@ -1,10 +1,14 @@
 ---
-layout: post
-title:  "Ciberseguridad en Inteligencia: seguridad en dispositivos de comunicaciones móviles"
-date:   2019-10-18 18:45:00 +0000
-categories: Presentation
-tags: Workshop OSINT
+layout: single
+title: "Ciberseguridad en Inteligencia: seguridad en dispositivos de comunicaciones móviles"
 excerpt_separator: <!--more-->
+date: 2019-10-18 18:45:00 +0000
+clasess: wide
+categories:
+    - Presentations
+tags:
+    - Workshop
+    - OSINT
 ---
 <h1 text-align="center">
     WorkShop-RSEAPGC

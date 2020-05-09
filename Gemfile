@@ -7,6 +7,5 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll-theme-hydeout", "~> 3.4"
-gem "jekyll-remote-theme"
+gem "minimal-mistakes-jekyll"
 
